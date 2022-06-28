@@ -66,7 +66,6 @@ Here's why:
 * Why try to remember past lineups, enter your previous lineups and compare how the scoring is.
 * Import the historical winning lineups from DK and compare with your lineups.
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -141,7 +140,16 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- WISHLIST -->
+
+## Wishlist
+
+Features to be added in future versions are located in the [WISHLIST.md](WISHLIST.md) file.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,7 +161,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@jjeweles](https://twitter.com/jjeweles1) - justin@kodesourc.com
 
-Project Link: [https://github.com/jjeweles/dkdraftstudio](https://github.com/name/jjeweles/dkdraftstudio)
+Project Link: [https://github.com/jjeweles/DK-Draft-Studio](https://github.com/jjeweles/DK-Draft-Studio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
