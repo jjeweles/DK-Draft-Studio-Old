@@ -188,23 +188,23 @@ to kick things off!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jjeweles/DK-Draft-Studio.svg?style=for-the-badge
 
 [contributors-url]: https://github.com/jjeweles/DK-Draft-Studio/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jjeweles/DK-Draft-Studio.svg?style=for-the-badge
 
 [forks-url]: https://github.com/jjeweles/DK-Draft-Studio/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jjeweles/DK-Draft-Studio.svg?style=for-the-badge
 
 [stars-url]: https://github.com/jjeweles/DK-Draft-Studio/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jjeweles/DK-Draft-Studio.svg?style=for-the-badge
 
 [issues-url]: https://github.com/jjeweles/DK-Draft-Studio/issues
 
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/jjeweles/DK-Draft-Studio.svg?style=for-the-badge
 
 [license-url]: https://github.com/jjeweles/DK-Draft-Studio/blob/main/LICENSE
 
