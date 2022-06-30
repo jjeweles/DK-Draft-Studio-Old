@@ -43,7 +43,6 @@ class AppUI:
                           [('Notebook.tab', {'sticky': 'nswe', 'children':
                               [('Notebook.padding', {'side': 'top', 'sticky': 'nswe', 'children':
                                   [('Notebook.label', {'side': 'top', 'sticky': ''})],
-                                                     # })],
                                                      })],
                                              })]
                           )
